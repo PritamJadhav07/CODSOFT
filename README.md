@@ -5,10 +5,7 @@ CODSOFT internsip Projects
   -  Level 1: Landing Page
   -  Level 1: Calculator
 
-- JAVA DEVELOPMENT PROJECTS :-
-  -  Number Game
-  -  Student Grade Calculator
-  -  ATM Interface
+
 
     
 **Level 1: Portfolio Website**
@@ -39,3 +36,11 @@ My Landing page is about creating music playlists.
 Calculator Webpage using HTML, CSS.
 
 ![Screenshot (86)](https://github.com/PritamJadhav07/CODSOFT/assets/163026751/962e3d28-3e8f-43fc-91b6-bbd832ec7112)
+
+
+- JAVA DEVELOPMENT PROJECTS :-
+  -  Number Game
+  -  Student Grade Calculator
+  -  ATM Interface
+ 
+  
